@@ -1,0 +1,39 @@
+  
+    <div class="blockbg">
+        .blockbg{
+            background-image: url("images/bg.jpg");
+            background-repeat: no-repeat;
+            height: 100%;
+            width: 100%;
+            z-index: 2; 
+          }
+    </div>
+
+    
+
+
+
+
+
+
+
+
+
+
+    <div class="container2">
+        <div class="box">
+            <img class="icon" src="images/pp.JPG"> </img>
+            <h3>FEUGIAT CONSEQUAT</h3>
+            <p>Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus. </p>
+        </div>
+        <div class="box">
+            <img class="icon" src="images/pp.JPG"> </img>
+            <h3>FEUGIAT CONSEQUAT</h3>
+            <p>Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus. </p>
+        </div>
+        <div class="box">
+            <img class="icon" src="images/pp.JPG"> </img>
+            <h3>FEUGIAT CONSEQUAT</h3>
+            <p>Nunc lacinia ante nunc ac lobortis ipsum. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus. </p>
+        </div>
+</div>
